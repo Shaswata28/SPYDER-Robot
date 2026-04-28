@@ -5,8 +5,6 @@
   <img src="https://img.shields.io/badge/Platform-Arduino%20Nano-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Platform-ESP32--CAM-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/Control-Blynk%20IoT-00C200?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Course-CSE%20342-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/University-East%20Delta%20University-8B0000?style=for-the-badge"/>
 </p>
 
 ---
@@ -219,10 +217,10 @@ Movement is managed by a **FlexiTimer2** interrupt running at **50 Hz (20ms)**, 
 
 | Name | Student ID |
 |------|-----------|
-| Prottoy Barua | 223018112 |
-| Avraw Das | 223016612 |
 | Shaswata Das | 223016312 |
+| Avraw Das | 223016612 |
 | Adnan Sameer | 223017912 |
+| Prottoy Barua | 223018112 |
 
 **Course:** CSE 342 — IoT-based Project Development, Section 1  
 **Institution:** School of Science, Engineering and Technology, East Delta University
